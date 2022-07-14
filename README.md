@@ -1,1 +1,1 @@
-# cpts427
+# cpts427 project Steganography application 
